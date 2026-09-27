@@ -85,8 +85,8 @@ Les règles de manipulation associées à chaque niveau sont précisées dans la
 | NTG-SMSI-RSK-003 | Rapport d'analyse de risques | 8.2 | 1.0 | Confidentiel | Approuvé |
 | NTG-SMSI-RSK-004 | Plan de traitement des risques | 6.1.3, 8.3 | 1.0 | Confidentiel | Approuvé |
 | NTG-SMSI-DDA-001 | Déclaration d'applicabilité | 6.1.3 d) | 1.0 | Interne | Approuvé |
-| NTG-SMSI-PSSI-001 | Politique de sécurité des systèmes d'information | 5.2, 7.5.1 b) | – | Interne | À produire |
-| NTG-SMSI-PRC-001 | Procédure de gestion des incidents | A.5.24 à A.5.28 | – | Interne | À produire |
-| NTG-SMSI-PRC-002 | Procédure de gestion des accès | A.5.15 à A.5.18 | – | Interne | À produire |
+| NTG-SMSI-PSSI-001 | Politique de sécurité des systèmes d'information | 5.2, 7.5.1 b) | 1.0 | Interne | Approuvé |
+| NTG-SMSI-PRC-001 | Procédure de gestion des incidents | A.5.24 à A.5.28 | 1.0 | Interne | Approuvé |
+| NTG-SMSI-PRC-002 | Procédure de gestion des accès | A.5.15 à A.5.18 | 1.0 | Interne | Approuvé |
 | NTG-SMSI-PIL-001 | Objectifs et indicateurs de sécurité | 6.2, 9.1 | – | Interne | À produire |
 | NTG-SMSI-AUD-001 | Rapport d'audit blanc | 9.2 | – | Confidentiel | À produire |

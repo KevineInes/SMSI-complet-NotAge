@@ -36,6 +36,7 @@ Chaque livrable répond à une exigence précise de la norme. Le fil rouge relie
 | Risques critiques avant → après traitement | **3 → 0** |
 | Mesures de l'annexe A examinées dans la DdA | **93** (90 applicables, 3 exclusions justifiées) |
 | Mesures prioritaires du plan de traitement | **28** |
+| PSSI | **12 pages**, 12 sections, 85 règles reliées à l'annexe A |
 | Documents maîtrisés du SMSI | Registre documentaire, versions, classification |
 
 | Risques initiaux | Risques résiduels |
@@ -50,7 +51,7 @@ Chaque livrable répond à une exigence précise de la norme. Le fil rouge relie
 | [`01-gouvernance`](01-gouvernance) | Maîtrise documentaire, politique du SMSI, rôles et responsabilités | 5, 7.5 |
 | [`02-risques`](02-risques) | Méthodologie, registre des risques, rapport d'analyse, plan de traitement | 6.1, 8.2, 8.3 |
 | [`03-dda`](03-dda) | Déclaration d'applicabilité commentée des 93 mesures de l'annexe A | 6.1.3 d) |
-| `04-pssi` | PSSI et procédures opérationnelles | 5.2, 7, 8 |
+| [`04-pssi`](04-pssi) | PSSI de 12 pages (PDF et Word), procédures de gestion des incidents et des accès | 5.2, 7.5, annexe A |
 | `05-pilotage-audit` | Objectifs, indicateurs, audit blanc | 6.2, 9, 10 |
 
 ## Avancement
@@ -61,8 +62,8 @@ Chaque livrable répond à une exigence précise de la norme. Le fil rouge relie
 | Contexte, périmètre et gouvernance | ✅ Terminé |
 | Appréciation des risques | ✅ Terminé |
 | Traitement des risques et DdA | ✅ Terminé |
-| PSSI et procédures | 🔄 En cours |
-| Pilotage et audit blanc | ⏳ À venir |
+| PSSI et procédures | ✅ Terminé |
+| Pilotage et audit blanc | 🔄 En cours |
 
 ## Références
 

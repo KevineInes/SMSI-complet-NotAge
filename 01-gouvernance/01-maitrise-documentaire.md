@@ -2,7 +2,7 @@
 
 | Référence | Version | Date | Propriétaire | Approbateur | Classification | Statut |
 |---|---|---|---|---|---|---|
-| NTG-SMSI-DOC-001 | 1.0 | 27/09/2026 | RSSI | Direction générale (CEO) | Interne | Approuvé |
+| NTG-SMSI-DOC-001 | 1.1 | 27/09/2026 | RSSI | Direction générale (CEO) | Interne | Approuvé |
 
 Exigence couverte : ISO/IEC 27001:2022, article 7.5.
 
@@ -49,6 +49,7 @@ Chaque document porte un en-tête qui contient :
 
 - **Revue** : tout document est revu au moins une fois par an, et à chaque changement significatif de l'organisation, du système d'information ou des risques.
 - **Obsolescence** : une version remplacée est archivée et marquée « Obsolète ». Seule la version approuvée en vigueur est diffusée.
+- **Registre des documents** : le registre de la section 6 est mis à jour à chaque création, approbation ou retrait d'un document. Ces mises à jour de statut ne changent pas la version du présent document : elles sont tracées par l'historique Git (date, auteur, contenu de la modification).
 
 ## 4. Classification de l'information
 
@@ -73,7 +74,7 @@ Les règles de manipulation associées à chaque niveau sont précisées dans la
 
 | Référence | Document | Exigence | Version | Classification | Statut |
 |---|---|---|---|---|---|
-| NTG-SMSI-DOC-001 | Maîtrise des informations documentées | 7.5 | 1.0 | Interne | Approuvé |
+| NTG-SMSI-DOC-001 | Maîtrise des informations documentées | 7.5 | 1.1 | Interne | Approuvé |
 | NTG-SMSI-CTX-001 | Présentation de NotAge | 4.1 | 1.0 | Interne | Approuvé |
 | NTG-SMSI-CTX-002 | Enjeux et parties intéressées | 4.1, 4.2 | 1.0 | Interne | Approuvé |
 | NTG-SMSI-CTX-003 | Périmètre du SMSI | 4.3 | 1.0 | Interne | Approuvé |
@@ -88,5 +89,12 @@ Les règles de manipulation associées à chaque niveau sont précisées dans la
 | NTG-SMSI-PSSI-001 | Politique de sécurité des systèmes d'information | 5.2, 7.5.1 b) | 1.0 | Interne | Approuvé |
 | NTG-SMSI-PRC-001 | Procédure de gestion des incidents | A.5.24 à A.5.28 | 1.0 | Interne | Approuvé |
 | NTG-SMSI-PRC-002 | Procédure de gestion des accès | A.5.15 à A.5.18 | 1.0 | Interne | Approuvé |
-| NTG-SMSI-PIL-001 | Objectifs et indicateurs de sécurité | 6.2, 9.1 | – | Interne | À produire |
-| NTG-SMSI-AUD-001 | Rapport d'audit blanc | 9.2 | – | Confidentiel | À produire |
+| NTG-SMSI-PIL-001 | Objectifs et indicateurs de sécurité | 6.2, 9.1, 9.3 | 1.0 | Interne | Approuvé |
+| NTG-SMSI-AUD-001 | Rapport d'audit à blanc | 9.2, 10.2 | 1.0 | Confidentiel | Approuvé |
+
+## 7. Historique des versions
+
+| Version | Date | Objet |
+|---|---|---|
+| 1.0 | 27/09/2026 | Création du document |
+| 1.1 | 27/09/2026 | Précision : le registre des documents est tenu à jour en continu, ses mises à jour étant tracées par l'historique Git |
